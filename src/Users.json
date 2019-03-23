@@ -1,0 +1,46 @@
+{
+  "annie@abv.bg": {
+    "moneyBalance": 500,
+    "userTickets": [],
+    "isOnline": false,
+    "email": "annie@abv.bg",
+    "password": "12345",
+    "name": "Annie",
+    "GSM": "0897122334",
+    "nationality": "bulgarian",
+    "isMale": false
+  },
+  "niki@abv.bg": {
+    "moneyBalance": 2000,
+    "userTickets": [],
+    "isOnline": false,
+    "email": "niki@abv.bg",
+    "password": "1234",
+    "name": "Niki",
+    "GSM": "0892366691",
+    "nationality": "english",
+    "isMale": true
+  },
+  "martin@abv.bg": {
+    "moneyBalance": 100,
+    "userTickets": [],
+    "isOnline": false,
+    "email": "martin@abv.bg",
+    "password": "12345",
+    "name": "Martin",
+    "GSM": "0897265060",
+    "nationality": "ispanec",
+    "isMale": true
+  },
+  "hrisi@ittalents.bg": {
+    "moneyBalance": 450,
+    "userTickets": [],
+    "isOnline": false,
+    "email": "hrisi@ittalents.bg",
+    "password": "hrisi1",
+    "name": "Hristina",
+    "GSM": "0894314576",
+    "nationality": "bulgarian",
+    "isMale": false
+  }
+}
